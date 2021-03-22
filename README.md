@@ -15,3 +15,9 @@ Project is created using a NodeMCU ESP8266
 ### Related software for applying IoT concept :
   - Blynk App
   - ThingSpeak Viewer App
+
+#### References :
+https://www.instructables.com/Automatic-Gardening-System-With-NodeMCU-and-Blynk-/
+https://landscapearchitecturemagazine.org/2014/01/21/soils-the-measure-of-moisture-parked/
+https://www.youtube.com/watch?v=Z0SZ-jzu_q8&list=LL&index=10
+https://docs.blynk.cc/
