@@ -1,4 +1,4 @@
-# SmarPot-NodeMCU
+# SmartPot-NodeMCU
 This is a project for completing the IoT Programming Development exam
 
 Smart pot is a prototype device which functional use for automating and easing plant irrigation.
